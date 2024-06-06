@@ -14,6 +14,7 @@ and rapid elimination techniques to determine the convex hull
 of the supplied collection of vertices. The
 project offers users an easy-to-use interface for the analysis
 and visualisation of geometric combinations.
+Graham scan and Jarvice March have also been impleted with step by step updation seperately.
 
 ## Introduction
 In many applications, including computational geometry
@@ -44,6 +45,8 @@ Andrew monotone, Graham scan, Jarvis March,
 brute force, and rapid elimination, users may as-
 sess the effectiveness and performance of each
 technique.
+
+4. Graham scan and Jarvice March have also been impleted with step by step updation seperately.
 
 ## Software Environment
 This was created on Python using libraries such as tk-
